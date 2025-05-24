@@ -15,7 +15,8 @@ This repository showcases a collection of sample Excel projects, templates, and 
 - **4.International Plan Count:** Number of users subscribed to any International plan.
 - **5.Call Distribution: Day, Evening, Night, International:** It categorizes call activity into Day, Evening, Night, and International segments, offering insights 
   into usage patterns and customer behavior. 
-![image](https://github.com/user-attachments/assets/cd753dc9-4ac3-4d3b-83f5-3f6b55800650)
+![image](https://github.com/user-attachments/assets/e0d68739-01f1-4bc6-b07f-91192c019e9e)
+
 ## 📁 Files Included:
 - 2023_Education_Attacks.xlsx
 - CustomerChurn.xlsx
