@@ -14,10 +14,7 @@ This repository showcases a collection of sample Excel projects, templates, and 
 - **3.Voice Mail Plan Count:** Number of users subscribed to any voice mail plan.
 - **4.International Plan Count:** Number of users subscribed to any International plan.
 - **5.Call Distribution: Day, Evening, Night, International:** It categorizes call activity into Day, Evening, Night, and International segments, offering insights 
-  into usage patterns and customer behavior 
-
-
-. 
+  into usage patterns and customer behavior. 
 ![image](https://github.com/user-attachments/assets/cd753dc9-4ac3-4d3b-83f5-3f6b55800650)
 
 
