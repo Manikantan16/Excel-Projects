@@ -16,6 +16,12 @@ This repository showcases a collection of sample Excel projects, templates, and 
 - **5.Call Distribution: Day, Evening, Night, International:** It categorizes call activity into Day, Evening, Night, and International segments, offering insights 
   into usage patterns and customer behavior. 
 ![image](https://github.com/user-attachments/assets/cd753dc9-4ac3-4d3b-83f5-3f6b55800650)
+## 📁 Files Included:
+- 2023_Education_Attacks.xlsx
+- CustomerChurn.xlsx
+## Conclusion:
+- Creating charts using Pivot Tables in Excel allows users to visually analyze and present summarized data interactively.
+- A Pivot Chart is directly linked to a Pivot Table and updates automatically as the data in the table changes.
 
 
 
